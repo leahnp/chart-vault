@@ -1,3 +1,5 @@
+[![pipeline status](https://git.cnct.io/common-tools/samsung-cnct_chart-vault/badges/master/pipeline.svg)](https://git.cnct.io/common-tools/samsung-cnct_chart-vault/commits/master)
+
 
 Using chart-vault
 ====================
